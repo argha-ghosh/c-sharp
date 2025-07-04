@@ -1,0 +1,7 @@
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\bin\Debug\ConsoleApp1task.exe.config
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\bin\Debug\ConsoleApp1task.exe
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\bin\Debug\ConsoleApp1task.pdb
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\obj\Debug\ConsoleApp1task.csproj.AssemblyReference.cache
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\obj\Debug\ConsoleApp1task.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\obj\Debug\ConsoleApp1task.exe
+D:\AIUB\C#\Lab\ConsoleApp1task\ConsoleApp1task\obj\Debug\ConsoleApp1task.pdb
