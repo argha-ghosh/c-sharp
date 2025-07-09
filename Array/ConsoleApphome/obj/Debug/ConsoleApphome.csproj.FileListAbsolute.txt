@@ -1,0 +1,7 @@
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\bin\Debug\ConsoleApphome.exe.config
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\bin\Debug\ConsoleApphome.exe
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\bin\Debug\ConsoleApphome.pdb
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\obj\Debug\ConsoleApphome.csproj.AssemblyReference.cache
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\obj\Debug\ConsoleApphome.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\obj\Debug\ConsoleApphome.exe
+D:\AIUB\C#\Lab\ConsoleApphome\ConsoleApphome\obj\Debug\ConsoleApphome.pdb
