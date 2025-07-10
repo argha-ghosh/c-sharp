@@ -38,7 +38,7 @@ namespace ConsoleApp1task
 
         public override void ShowInfo()
         {
-            Console.WriteLine("---------- Negative Character -------");
+            Console.WriteLine(" Detals About Negative Charactor =>");
             Console.WriteLine($"ID: {Id}");
             Console.WriteLine($"Name: {CharacterName}");
             Console.WriteLine($"Anime: {AnimeName}");
