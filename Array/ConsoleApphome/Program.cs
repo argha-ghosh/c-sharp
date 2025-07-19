@@ -17,10 +17,10 @@ namespace ConsoleApphome
             int[,] grades = new int[5, 6];
             grades[0, 2] = 5;
             Console.WriteLine("So the output for this 1d array is: " + grades[0, 2]);
-            Console.WriteLine(grades.GetLength(0));
+            Console.WriteLine("So the length of the output array is: " + grades.GetLength(0));
 
             Console.WriteLine("______________________________________________________");
-            Console.WriteLine();
+            //Console.WriteLine();
 
             // Initialize 2D array
             int[,] roll =
