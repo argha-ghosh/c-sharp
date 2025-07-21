@@ -48,7 +48,7 @@ namespace ConsoleApphome
             }
 
             Console.WriteLine("_____________________________________________________________");
-            Console.WriteLine();
+            //Console.WriteLine();
 
             //Jaccked array
             int[][] classID =
