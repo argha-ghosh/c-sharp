@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\bin\Debug\ConsoleAppInhertanceQ.exe.config
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\bin\Debug\ConsoleAppInhertanceQ.exe
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\bin\Debug\ConsoleAppInhertanceQ.pdb
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\obj\Debug\ConsoleAppInhertanceQ.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\obj\Debug\ConsoleAppInhertanceQ.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\obj\Debug\ConsoleAppInhertanceQ.exe
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\ConsoleAppInhertanceQ\ConsoleAppInhertanceQ\obj\Debug\ConsoleAppInhertanceQ.pdb
