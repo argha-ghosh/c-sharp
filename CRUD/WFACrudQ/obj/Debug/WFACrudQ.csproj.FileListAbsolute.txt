@@ -1,0 +1,20 @@
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\bin\Debug\WFACrudQ.exe.config
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\bin\Debug\WFACrudQ.exe
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\bin\Debug\WFACrudQ.pdb
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.FormDashboard.resources
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.Properties.Resources.resources
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.csproj.GenerateResource.cache
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.exe
+C:\Users\HASIB\Dropbox\AIUB\29. Spring 2024-25\OOP-2\Project\WFACrudQ\WFACrudQ\obj\Debug\WFACrudQ.pdb
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\bin\Debug\WFACrudQ.exe.config
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\bin\Debug\WFACrudQ.exe
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\bin\Debug\WFACrudQ.pdb
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.csproj.AssemblyReference.cache
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.FormDashboard.resources
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.Properties.Resources.resources
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.csproj.GenerateResource.cache
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.exe
+D:\AIUB\C#\Lab\CRUD\WFACrudQ\obj\Debug\WFACrudQ.pdb
