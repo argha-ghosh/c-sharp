@@ -1,0 +1,7 @@
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\bin\Debug\ConsoleAppMID.exe.config
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\bin\Debug\ConsoleAppMID.exe
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\bin\Debug\ConsoleAppMID.pdb
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\obj\Debug\ConsoleAppMID.csproj.AssemblyReference.cache
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\obj\Debug\ConsoleAppMID.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\obj\Debug\ConsoleAppMID.exe
+D:\AIUB\C#\Lab\ConsoleAppMID\ConsoleAppMID\obj\Debug\ConsoleAppMID.pdb
