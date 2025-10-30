@@ -19,7 +19,7 @@ namespace ConsoleApphome
             Console.WriteLine("So the output for this 1d array is: " + grades[0, 2]);
             Console.WriteLine("So the length of the output array is: " + grades.GetLength(0));
 
-            Console.WriteLine("______________________________________________________");
+            //Console.WriteLine("______________________________________________________");
             //Console.WriteLine();
 
             // Initialize 2D array
@@ -86,4 +86,5 @@ namespace ConsoleApphome
     }
 
 }
+
 
